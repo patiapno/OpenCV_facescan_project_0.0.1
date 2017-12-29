@@ -4,21 +4,18 @@
 Face Recognition tutorial refference for http://thecodacus.com 
 
 ### Prerequisites
-* Python 2.x
-* OpenCV 2.x
+* Python 3.x
+* OpenCV 3.x
 * Numpy
 
-### Installing
+ Pillow### Installing
 
-* Create an empty Folder named **"dataSet"** in the same directory where the python scripts are 
-* Create an empty folder called **trainer** In same directory 
+* Downloads this floader to you computer  
 
-## Running the tests
-
-* run the dataSetGenerator.py and enter a unique id to create face samples with your face
+## Running the * run the dataSetGenerator.py and enter a unique id to create face samples with your face
 * run trainer.py
 * run detector.py
 
 ## Authors
 
-* **[Anirban Kar](http://thecodacus.com/author/admin/)**
+* **[AV&T LAB(2018)]**
