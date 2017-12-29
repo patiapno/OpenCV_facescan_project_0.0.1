@@ -2,7 +2,8 @@ import urllib3
 http = urllib3.PoolManager()
 
 def insertData(faceid):
-    res = http.request('GET','192.168.1.101:8080/insert/'+faceid)
+    res = http.request('GET','YOURIP/insert/'+faceid)
     print(res.status)
     print(res.data)
+    #return res.data
     #print(res)
