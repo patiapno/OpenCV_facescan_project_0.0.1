@@ -8,11 +8,11 @@ Face Recognition tutorial refference for http://thecodacus.com
 * OpenCV 3.x
 * Numpy
 
- Pillow### Installing
+ Pillow* ### Installing
 
 * Downloads this floader to you computer  
 
-## Running the * run the dataSetGenerator.py and enter a unique id to create face samples with your face
+##Running the run the dataSetGenerator.py and enter a unique id to create face samples with your face
 * run trainer.py
 * run detector.py
 
