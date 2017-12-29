@@ -1,0 +1,18 @@
+{
+  "name": "clear",
+  "version": "1.0.1",
+  "description": "to face san",
+  "main": "index.js",
+  "scripts": {
+    "test": "no"
+  },
+  "author": "AT&T LAB",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "jade": "^1.11.0",
+    "mongojs": "^2.4.1",
+    "time": "^0.12.0"
+  }
+}
